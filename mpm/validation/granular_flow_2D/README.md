@@ -5,6 +5,8 @@
 
 **Source files:** [granular_flow_2D](https://github.com/KratosMultiphysics/Examples/tree/master/mpm/validation/granular_flow_2D/source)
 
+**Prerequisites:** Basic knowledge of GiD Interface
+
 ## Case Specification
 
 This is a 2D non-cohesive granular material simulation according to the experiment conducted by (Bui et al., 2008). Here, linear structured triangular elements are used to initialize the MPs and as the background mesh. The structured mesh arrangement is chosen to avoid the irregularities of the generated MP’s density, which, by further, improving the numerical solutions.
