@@ -5,7 +5,7 @@
 
 **Source files:** [cylinder_on_inclined_plane_2D](https://github.com/KratosMultiphysics/Examples/tree/master/mpm/validation/cylinder_on_inclined_plane/source)
 
-
+**Prerequisites:** Basic knowledge of GiD Interface
 
 ## Case Specification
 
